@@ -22,7 +22,7 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 7: Itemización de las peliculas e incorporación del widget card |
+| Nombre  |  Práctica 9: Itemización de las peliculas e incorporación del widget card |
 | Descripción  |  En esta aplicación se modicica la práctica 8, para agregaer cada poster de pelicula en una card. Asi como también se agrega un Apartado para el nombre de la pelicula.|
 |  Fecha de Actividad  |  04 de Octubre de 2023  |
 
@@ -33,20 +33,14 @@
 &nbsp;
 
 ## Salida
-
-Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón. la pantalla principal solo cuenta con un botón principal como el siguiente.
 <p align="center">
-<img src="" width="30%"/>
+  Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra del poster de peliculas que se ha implementado.
 </p>
-
-Para los cambios de estado, se muestran los siguientes datos, que se encuentran en un arreglo de datos.
-<p>
-<img src="" width="15%"/>
-<img src="" width="15%"/>
-<img src="" width="15%"/>
-<img src="" width="15%"/>
+<p align="center">
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaHorizonatal1.png" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaHorizontal2.png" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaVertical.png" width="30%"/>
 </p>
-
 
 <br>
 <br>
