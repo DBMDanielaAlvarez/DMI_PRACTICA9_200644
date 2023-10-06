@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaHorizonatal1.png" width="30%"/>
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaHorizontal2.png" width="30%"/>
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaVertical.png" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA9_200644/blob/main/screenshots/pruebaVertical1.png" width="30%"/>
 </p>
 
 <br>
